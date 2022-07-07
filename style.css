@@ -33,7 +33,7 @@ h1{
 .testar{
     position: relative;
     top:8.5vh;
-    left:3vw;
+    
     font-size:2vh;
 
     color:#716E6E;
@@ -45,7 +45,7 @@ h1{
     
     font-size:2vh;
     top:19vh;
-    right: 5vw;
+    left: 2.5vw;;
     color:#716E6E;
     
     font-weight: 500px;
